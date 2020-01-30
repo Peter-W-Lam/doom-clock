@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/doom-clock/static/css/main.d8adf44d.chunk.css",
+    "main.js": "/doom-clock/static/js/main.88a18c8b.chunk.js",
+    "main.js.map": "/doom-clock/static/js/main.88a18c8b.chunk.js.map",
+    "runtime-main.js": "/doom-clock/static/js/runtime-main.278621df.js",
+    "runtime-main.js.map": "/doom-clock/static/js/runtime-main.278621df.js.map",
+    "static/css/2.b90ce945.chunk.css": "/doom-clock/static/css/2.b90ce945.chunk.css",
+    "static/js/2.d8b16d9d.chunk.js": "/doom-clock/static/js/2.d8b16d9d.chunk.js",
+    "static/js/2.d8b16d9d.chunk.js.map": "/doom-clock/static/js/2.d8b16d9d.chunk.js.map",
+    "index.html": "/doom-clock/index.html",
+    "precache-manifest.4f4d5d754873d9fcfec2551f7daa046b.js": "/doom-clock/precache-manifest.4f4d5d754873d9fcfec2551f7daa046b.js",
+    "service-worker.js": "/doom-clock/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/doom-clock/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.d8adf44d.chunk.css.map": "/doom-clock/static/css/main.d8adf44d.chunk.css.map",
+    "static/js/2.d8b16d9d.chunk.js.LICENSE": "/doom-clock/static/js/2.d8b16d9d.chunk.js.LICENSE",
+    "static/media/racing-flag.png": "/doom-clock/static/media/racing-flag.b6a60dc0.png",
+    "static/media/start-up.png": "/doom-clock/static/media/start-up.8d6b7968.png",
+    "static/media/typewriter.png": "/doom-clock/static/media/typewriter.95d798db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.278621df.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.d8b16d9d.chunk.js",
+    "static/css/main.d8adf44d.chunk.css",
+    "static/js/main.88a18c8b.chunk.js"
+  ]
+}
