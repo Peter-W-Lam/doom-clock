@@ -1,4 +1,6 @@
 # NaNoWriMo Doom Clock
+This repository is hosted on [Github Pages](https://peterlam.me/doom-clock/)
+
 ## Summary 
 This is a web application designed to be used for timed writing challenges in the style of NaNoWriMo. Users can pick a word count goal, as well as a start and end date of their challenge, and see on the clock how many words they should have—at that very second. 
 
